@@ -1,5 +1,14 @@
 # custom-middleware
 
+before you run this project, install the depedencies by typing
+```
+npm install
+```
+or
+```
+npm i
+```
+
 if you want to run this project, type
 ```
 npm run dev
